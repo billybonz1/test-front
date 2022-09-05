@@ -1,0 +1,2 @@
+document.querySelector(".mobile-more").addEventListener("click",(function(e){e.preventDefault(),document.querySelector(".main-page-banner").style.maxHeight="unset",this.style.display="none"})),document.querySelectorAll(".ic-bottom a").forEach((e=>{e.addEventListener("click",(function(t){t.preventDefault(),e.nextElementSibling.classList.toggle("block")}))}));
+//# sourceMappingURL=index.0019a4bc.js.map
